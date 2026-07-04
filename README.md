@@ -52,7 +52,7 @@ My passion is transforming complex business challenges into scalable enterprise 
 | 🌎 Fortune 500 Programs | **5+ Concurrent Programs** |
 | 👥 Teams Led | **20+ Cross-functional Professionals** |
 | 🎯 On-Time Delivery | **98%** |
-| 💰 Inventory Optimization | **₹12 Crore+ Impact** |
+| 💰 Inventory Optimization | **₹120 Crore+ Impact** |
 | ⚡ Reporting Automation | **60% Reduction** |
 | 🤖 AI Transformation | Microsoft Copilot & GenAI Adoption |
 | 📉 Delivery Risk Reduction | **35%** |
